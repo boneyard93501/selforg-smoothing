@@ -6,5 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+asciigraph = "0.8.3"
 chrono = "0.4.31"
 fluence-keypair = "0.10.3"
+rv = "0.16.0"
